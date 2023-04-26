@@ -1,6 +1,6 @@
 # CSS COURSE IN DARI LANGUAGE
 
-## CSS Basics
+## Lesson:1 CSS Basics
 
 - What is CSS? (with examples)
 - Syntax
@@ -16,7 +16,7 @@
 - borders
 - margin - padding
 
-## Typography
+## Lesson:2 Typography
 
 - color (hex, rgb, rgba) ex - instagram palette
 - extra - background-color & background-image
@@ -31,7 +31,7 @@
 - text-transform
 - text-shadow:4px 4px 8px blue;
 
-## CSS Intermediate
+## Lesson:3 CSS Intermediate
 
 - border
 - Links (a:link, :hover, :active, a:visited)
